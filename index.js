@@ -117,13 +117,13 @@
 // Oppgave 9
 // Lag en While-løkke som skriver ut de første 10 tallene i Fibonacci-sekvensen
 
-let a = 0;
-let b = 1;
-let count = 0;
-while (count < 10) {
-    console.log(a);
-    let next = a + b;
-    a = b;
-    b = next;
-    count++;
-}
+// let a = 0;
+// let b = 1;
+// let count = 0;
+// while (count < 10) {
+//     console.log(a);
+//     let next = a + b;
+//     a = b;
+//     b = next;
+//     count++;
+// }
